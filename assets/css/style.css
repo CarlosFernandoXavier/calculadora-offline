@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#conteudo {
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    box-shadow: 2px 4px black;
+    /*background-color: #e6c7c7;*/
+    background-color: lightgray;
+    
+    
+}
+#teclado {
+    margin-left: 20px;
+}
